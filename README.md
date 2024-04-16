@@ -1,4 +1,4 @@
-# 💫 About Me: HI , I'm Abhijeet Kadtan
+# 💫  Hi , I'm Abhijeet Kadtan
  i,m Fullstack Web Developer
 
 
