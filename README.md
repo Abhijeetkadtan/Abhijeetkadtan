@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey! , I'm Abhijeet Kadtan &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 💫  Hi , I'm Abhijeet Kadtan
  i,m Fullstack Web Developer
 
