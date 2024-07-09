@@ -20,7 +20,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkadtan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Activity Graph:
-[![Abhijeets's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan)](https://github.com/Abhijeetkadtan/github-readme-activity-graph)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Abhijeet's contribution graph" />
+    </picture>
+  </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhijeetkadtan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
