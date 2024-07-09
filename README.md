@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkadtan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Activity Graph:
-[![Abhijeets's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhijeets's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetkadtan)](https://github.com/Abhijeetkadtan/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhijeetkadtan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
