@@ -31,6 +31,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhijeetkadtan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![@Abhijeet's Holopin board](https://holopin.io/api/user/board?user=abhijeet47)](https://holopin.io/@abhijeet47)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijeetkadtan&icon=0&color=0)](https://visitcount.itsvg.in)
 
