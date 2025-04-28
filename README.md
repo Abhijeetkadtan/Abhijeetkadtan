@@ -33,7 +33,7 @@
 
 [![An image of @abhijeet47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeet47)](https://holopin.io/@abhijeet47)
 
-[![@Abhijeet's Holopin board](https://holopin.io/api/user/board?user=abhijeet47)](https://holopin.io/@abhijeet47)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijeetkadtan&icon=0&color=0)](https://visitcount.itsvg.in)
