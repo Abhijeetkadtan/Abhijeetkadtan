@@ -3,7 +3,7 @@
 </p>
 
 # 💫  Hi , I'm Abhijeet Kadtan
- i,m Fullstack Web Developer
+ i am Fullstack Web Developer
 
 
 ## 🌐 Socials:
