@@ -32,7 +32,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhijeetkadtan&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=Abhijeetkadtan&pretty=true)](https://visitcount.itsvg.in)
 
 
 <p align="center">
