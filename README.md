@@ -22,15 +22,17 @@
 # 📊 My Holopin Badges:
 [![An image of @abhijeet47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeet47)](https://holopin.io/@abhijeet47)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhijeetkadtan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhijeetkadtan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhijeetkadtan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkadtan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhijeetkadtan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhijeetkadtan&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <p align="center">
